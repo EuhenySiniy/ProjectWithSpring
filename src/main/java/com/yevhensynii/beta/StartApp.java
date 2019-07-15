@@ -1,0 +1,7 @@
+package com.yevhensynii.beta;
+
+public class StartApp {
+    public static void main(String[] args) {
+        
+    }
+}
